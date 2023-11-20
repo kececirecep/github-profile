@@ -7,7 +7,7 @@ import Card from './components/Card';
 function App() { 
 
 
-  const [username, setUsername] = useState("kececirecep");
+  const [username, setUsername] = useState("tayfunerbilen");
   const [user, setUser] = useState({});
 
   const getProfile = async () => {
